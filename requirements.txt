@@ -1,0 +1,7 @@
+Flask
+Flask-SQLAlchemy
+requests
+beautifulsoup4
+lxml
+Werkzeug
+MarkupSafe
